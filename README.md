@@ -10,7 +10,7 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 
 <h4>Components Used</h4>
 <br>
-:boom: | Rgb Led ![image](https://user-images.githubusercontent.com/48534490/191935912-a28fd473-82ad-4728-a15b-9728f63959db.png)
+:boom: | Rgb Led <img align = "right"  alt = "png" src= "https://media.discordapp.net/attachments/512761795459416065/1022808109929996340/led.png" width="300" heigth="300"/>
 
 
 
