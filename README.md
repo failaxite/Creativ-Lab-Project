@@ -10,3 +10,6 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 <h1 align="center"><p>Picture of Electrical diagram</h1></p>
 
 <p align = center ><img align = "center"  alt = "png" src= "https://cdn.discordapp.com/attachments/1019915018055192586/1022799627726102629/20220923_112019.jpg" width="300" heigth="300"/></p>
+
+<p align = center ><img align = "center"  alt = "png" src= "https://cdn.discordapp.com/attachments/1019915018055192586/1022799628065833001/20220923_112016.jpg"
+width="300" heigth="300"/></p>
