@@ -10,7 +10,7 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 
 <h4>Components Used</h4>
 <br>
-:flashlight:: - Rgb Led
+:flashlight: - Rgb Led
 <br>
 :iphone: - Potentiomètre
 <br>
