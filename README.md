@@ -10,13 +10,13 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 
 <h4>Components Used</h4>
 <br>
-:school_satchel: - Rgb Led
+:flashlight:: - Rgb Led
 <br>
-:school_satchel: - Potentiomètre
+:iphone: - Potentiomètre
 <br>
-:school_satchel: - VS-ELEC AFFICHEUR
+:tv: - VS-ELEC AFFICHEUR
 <br>
-:school_satchel: - Piezo Buzzer
+:notes: - Piezo Buzzer
 <br>
 :school_satchel: - Capteur Ultrason
 
