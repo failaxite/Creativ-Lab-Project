@@ -10,15 +10,16 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 
 <h4>Components Used</h4>
 <br>
-:flashlight: - Rgb Led
+:flashlight: - Rgb Led (<strong>Lights up at a certain distance</strong>)
 <br>
-:iphone: - Potentiomètre
+:iphone: - Potentiomètre (<strong>To vary the sound of the buzzer</strong>)
 <br>
-:tv: - VS-ELEC AFFICHEUR
+:tv: - VS-ELEC AFFICHEUR (<strong>To display the distance</strong>)
 <br>
-:notes: - Piezo Buzzer
+:notes: - Piezo Buzzer (<strong>Make a sound at a certain distance</strong>)
 <br>
-:school_satchel: - Capteur Ultrason
+:school_satchel: - Capteur Ultrason (<strong>Captures movement in ultrasound</strong>)
+
 
 
 
