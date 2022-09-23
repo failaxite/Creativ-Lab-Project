@@ -25,6 +25,7 @@ Project set up in C++ and electrical circuit with [@Kishinii](https://github.com
 <h4>Power Point</h4>
 
 [embed]https://github.com/failaxite/Creativ-Lab-Project/files/9635654/Creativ.Lab.pdf[/embed]
+[embed]http://example.com/file.pdf[/embed]
 
 
 <h4>Movie</h4>
