@@ -4,7 +4,7 @@ Project set up in C++ and electrical circuit with [@Kishinii](https://github.com
 
 
 <h4>Explanations</h4>
-<p>Le but du projet était de choisir des capteurs et ensuite les utiliser pour faire un mini objet</p>
+<p>The goal of the project was to choose sensors and then use them to make a mini object</p>
 
 
 <h4>Components Used</h4>
