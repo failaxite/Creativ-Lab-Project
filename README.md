@@ -14,7 +14,7 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 <br>
 :iphone: - Potentiomètre (<strong>To vary the sound of the buzzer</strong>)
 <br>
-:tv: - VS-ELEC AFFICHEUR (<strong>To display the distance</strong>)
+:tv: - Vs Elec Afficheur (<strong>To display the distance</strong>)
 <br>
 :notes: - Piezo Buzzer (<strong>Make a sound at a certain distance</strong>)
 <br>
