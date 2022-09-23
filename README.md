@@ -3,7 +3,7 @@
 Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'lab course at [@IIM](https://www.iim.fr/) school
 
 
-<h5>__Explications__</h5>
+<u>__Explications__</u>
 
 
 <h1 align="left"><p>Electrical diagram of the project</h1></p>
