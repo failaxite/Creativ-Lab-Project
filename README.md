@@ -9,6 +9,9 @@ Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'la
 
 
 <h4>Components Used</h4>
+<br>
+:boom: | Rgb Led ![image](https://user-images.githubusercontent.com/48534490/191935912-a28fd473-82ad-4728-a15b-9728f63959db.png)
+
 
 
 <h1 align="left"><p>Electrical diagram of the project</h1></p>
