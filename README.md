@@ -24,8 +24,7 @@ Project set up in C++ and electrical circuit with [@Kishinii](https://github.com
 
 <h4>Power Point</h4>
 
-<embed src="Creativ.Lab.pdf" width="1000px" height="2100px" />
-
+[Creativ’Lab.pdf](https://github.com/failaxite/Creativ-Lab-Project/files/9635728/Creativ.Lab.pdf)
 
 <h4>Movie</h4>
 
