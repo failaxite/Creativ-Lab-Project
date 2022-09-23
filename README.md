@@ -8,7 +8,6 @@ Project set up in C++ and electrical circuit with [@Kishinii](https://github.com
 
 
 <h4>Components Used</h4>
-<br>
 :flashlight: - Rgb Led (<strong>Lights up at a certain distance</strong>)
 <br>
 :iphone: - Potentiomètre (<strong>To vary the sound of the buzzer</strong>)
