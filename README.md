@@ -3,9 +3,12 @@
 Project set up with [Kishinii](https://github.com/KishiniCHL) for the creativ'lab course at [@IIM](https://www.iim.fr/) school
 
 
-<h3>Explications</h3>
+<h4>Explanations</h4>
 <br>
 <p>Testing</p>
+
+
+<h4>Components Used</h4>
 
 
 <h1 align="left"><p>Electrical diagram of the project</h1></p>
